@@ -41,12 +41,12 @@ If you are using Cpanel, you can follow this article to change your PHP memory l
 
 - Upload all files into the root folder of your hosting (normally, it is`public_html`).
 - Create a database and import data from `database.sql` (it's located in source code).
-  ![Database](https://live.staticflickr.com/65535/50847506748_5be4ac9228_b.jpg)
-- Open file `.env` and update your database credentials (if `.env` file is not existed, you can create it from `.env.example`).
+  ![Database](https://live.staticflickr.com/65535/51287837417_979939b3ae_b.jpg)
+- Open file `.env` and update your database credentials (if `.env` file is not existing, you can create it from `.env.example`).
 - Make sure `APP_URL` in `.env` is correct your domain. It should be `APP_URL=http://your-domain.com`
 - Go to `/admin` to access to admin panel.
 - The default admin account is `botble` - `159357`.
-  ![Login](https://live.staticflickr.com/65535/50848324292_9435b27506_b.jpg)
+  ![Login](https://live.staticflickr.com/65535/51289601305_8bede945a6_b.jpg)
 
 ## Install locally or in VPS
 
