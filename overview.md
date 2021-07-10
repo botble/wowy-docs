@@ -10,7 +10,7 @@
 
 Wowy is a Multipurpose Ecommerce System using Laravel 8.x. It's a product built on Botble CMS.
 
-Created: `Jan 05, 2021`
+Created: `Jul 11, 2021`
 
 By: [Botble Technologies](https://botble.com)
 
