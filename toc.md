@@ -21,4 +21,5 @@
   - [Translation](usage-translation.md)
   - [Email](usage-email.md)
   - [Multi-language](usage-multi-language.md)
+  - [Currencies](usage-currencies.md)
   
