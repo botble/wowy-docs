@@ -1,3 +1,5 @@
+# Email
+
 ## Basic settings
 - Go to Admin -> Setting -> Email.
   It supports SMTP, Sendmail, Mailgun, SES, Postmark, Log and Array. We suggest use Mailgun to send mail.

@@ -16,6 +16,7 @@
   - [Setup homepage](usage-homepage.md)
   - [Theme options](usage-theme-options.md)
   - [Menu](usage-menu.md)
+  - [Widgets](usage-widgets.md)
   - [Translation](usage-translation.md)
   - [Custom CSS/JS](usage-custom-css-js.md)
   - [Email](usage-email.md)

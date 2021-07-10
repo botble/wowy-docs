@@ -1,3 +1,5 @@
+# Custom CSS/JS
+
 ## Custom CSS
 - Go to Admin -> Appearance -> Custom CSS.
 
