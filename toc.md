@@ -23,4 +23,5 @@
   - [Multi-language](usage-multi-language.md)
   - [Currencies](usage-currencies.md)
   - [Newsletter](usage-newsletter.md)
+  - [Ads](usage-ads.md)
   
