@@ -20,4 +20,5 @@
   - [Translation](usage-translation.md)
   - [Custom CSS/JS](usage-custom-css-js.md)
   - [Email](usage-email.md)
+  - [Multi-language](usage-multi-language.md)
   
