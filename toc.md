@@ -14,11 +14,11 @@
 
 - Usage
   - [Setup homepage](usage-homepage.md)
-  - [Theme options](usage-theme-options.md)
   - [Menu](usage-menu.md)
+  - [Theme options](usage-theme-options.md)
   - [Widgets](usage-widgets.md)
-  - [Translation](usage-translation.md)
   - [Custom CSS/JS](usage-custom-css-js.md)
+  - [Translation](usage-translation.md)
   - [Email](usage-email.md)
   - [Multi-language](usage-multi-language.md)
   
