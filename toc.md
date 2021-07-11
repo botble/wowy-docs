@@ -9,7 +9,6 @@
     - [License](license.md)
     
 - Available plugins
-    - [Analytics](plugin-analytics.md)
     - [Backup](plugin-backup.md)
 
 - Usage
@@ -24,4 +23,5 @@
   - [Currencies](usage-currencies.md)
   - [Newsletter](usage-newsletter.md)
   - [Ads](usage-ads.md)
+  - [Analytics](usage-analytics.md)
   
