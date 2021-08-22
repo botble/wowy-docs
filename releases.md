@@ -1,9 +1,35 @@
 # Release Notes
 
+- [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
 
-<a name="version_1_0"></a>
+<a name="version_1_2"></a>
+## Wowy 1.2
+### Aug 23, 2021
+- Fix social login.
+- Fix Contact plugin with the new editor.
+- Fix permission issues.
+- Fix currency settings.
+- Fix checkout recovery.
+- Fix display product variant image on checkout or order detail page.
+- Fix Mollie payment gateway (handle when customer cancel payment).
+- Fix Razorpay (correct amount with shipping fee).
+- Add Bulk Import Products from CSV/Excel.
+- Add search products by brand.
+- Add order delivery notes.
+- Add sticky header.
+- Add filter products by category in Admin -> Ecommerce -> Products.
+- Improve eCommerce reports page.
+- Improve discount & create order (make it translatable).
+- Improve shortcode. Make it easier to modify added shortcodes.
+- Improve editor & clean XSS.
+- Update email templates.
+- Update to the latest Laravel version 8.55.0
+- Improve core.
+- Optimize queries performance.
+
+<a name="version_1_1"></a>
 ## Wowy 1.1
 ### Jul 27, 2021
 - Update CKEditor and TinyMCE to the latest version (version 5).
