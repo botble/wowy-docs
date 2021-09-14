@@ -1,8 +1,29 @@
 # Release Notes
 
+- [Wowy 1.3](#version_1_3)
 - [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
+
+<a name="version_1_3"></a>
+## Wowy 1.3
+### Sep 15, 2021
+- Add product review images.
+- Fix layout when disabling review.
+- Fix theme migration & issue when activating plugin Language.
+- Fix admin email.
+- Fix cache issue in media.
+- Clear data when deleting customer.
+- Improve product categories dropdown (allow adding custom image for icon).
+- Improve CKEditor.
+- Improve theme custom CSS/JS.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve UI.
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_2"></a>
 ## Wowy 1.2
