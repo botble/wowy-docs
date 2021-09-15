@@ -9,12 +9,17 @@
 ## Wowy 1.3
 ### Sep 15, 2021
 - Add product review images.
+- Add weekly abandoned carts email notifications
+- Add minimum order amount for COD.
+- Fix get products by category & breadcrumb.
 - Fix layout when disabling review.
 - Fix theme migration & issue when activating plugin Language.
 - Fix admin email.
 - Fix cache issue in media.
 - Clear data when deleting customer.
 - Improve product categories dropdown (allow adding custom image for icon).
+- Improve invoice. Add setting to change font family for invoices.
+- Improve payment gateways.
 - Improve CKEditor.
 - Improve theme custom CSS/JS.
 - Improve allowed iframe types.
