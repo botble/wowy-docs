@@ -22,7 +22,7 @@
   - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
   - Go to Admin -> Plugins: deactivate plugin `Ecommerce` then activate it again.
-  - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
   - 
 <a name="version_1_2"></a>
 ## Upgrade to version 1.2
@@ -42,7 +42,7 @@
   - Override folder `app`, `bootstrap`, `database`, `config`, `platform`, `vendor`, `public/themes`, `public/vendor` and `public/index.php` from the latest version.
   - Delete all files in `storage/framework/views` and `storage/framework/cache`.
   - Go to Admin -> Plugins: deactivate plugin `Ecommerce` then activate it again.
-  - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
   - 
 <a name="version_1_1"></a>
 ## Upgrade to version 1.1
