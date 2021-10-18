@@ -1,9 +1,32 @@
 # Release Notes
 
+- [Wowy 1.4](#version_1_4)
 - [Wowy 1.3](#version_1_3)
 - [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
+
+<a name="version_1_4"></a>
+## Wowy 1.4
+### Oct 19, 2021
+- Upgrade admin theme to Bootstrap 5.
+- Add system updater. 1-click update to the latest version.
+- Add compare icon on header.
+- Add BunnyCDN cloud storage.
+- Improve PayPal & Razorpay. Display warning if the current currency isn't supported by PayPal / Razorpay.
+- Improve invoice template.
+- Fix checkout page, apply coupon.
+- Fix bug admin email, login backgrounds.
+- Fix missing translations.
+- Fix bug display wrong days in flash sales.
+- Make phone field at the checkout optional.
+- Update to the latest Laravel version 8.64.0
+- Improve multi-language.
+- Improve RTL mode.
+- Improve UI & Editors.
+- Improve cookie consent (Added minimal style).
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_3"></a>
 ## Wowy 1.3
