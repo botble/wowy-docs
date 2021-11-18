@@ -12,7 +12,7 @@
 ### Nov 18, 2021
 - Added language switcher in vendor dashboard.
 - Added some events (order confirmed, order completed, payment completed, order cancelled…) in source code (for developers).
-- Added FAQ to product detail page
+- Added FAQ to product detail page.
 - Show confirmation box when delete user address.
 - Fix bullets list style in the editor.
 - Fix admin bar setting.
@@ -37,7 +37,6 @@
 - Validate CSV/Excel file before importing products.
 - Update to the latest Laravel version 8.72.0.
 - Optimize queries performance.
-
 
 <a name="version_1_4"></a>
 ## Wowy 1.4
