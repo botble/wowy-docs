@@ -10,6 +10,7 @@
 <a name="version_1_5"></a>
 ## Wowy 1.5
 ### Nov 18, 2021
+- Added language switcher in vendor dashboard.
 - Added some events (order confirmed, order completed, payment completed, order cancelled…) in source code (for developers).
 - Added FAQ to product detail page
 - Show confirmation box when delete user address.
@@ -22,6 +23,7 @@
 - Fix update customer’s avatar.
 - Fix update shipping status.
 - Fix some small issues when upgrading to Bootstrap 5.
+- Improve UI for vendor dashboard.
 - Improve reviews: display review images in the admin panel.
 - Improve multi-language.
 - Improve plugin Language & Language Advanced.
