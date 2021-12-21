@@ -8,9 +8,6 @@
     - [SSL](ssl.md)
     - [License](license.md)
     
-- Available plugins
-    - [Backup](plugin-backup.md)
-
 - Usage
   - [Setup homepage](usage-homepage.md)
   - [Menu](usage-menu.md)
@@ -25,4 +22,5 @@
   - [Ads](usage-ads.md)
   - [Setup Amazon S3](usage-media-s3.md)
   - [Analytics](usage-analytics.md)
+  - [Backup](usage-backup.md)
   

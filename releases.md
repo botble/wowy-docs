@@ -1,11 +1,31 @@
 # Release Notes
 
+- [Wowy 1.6](#version_1_6)
 - [Wowy 1.5](#version_1_5)
 - [Wowy 1.4](#version_1_4)
 - [Wowy 1.3](#version_1_3)
 - [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
+
+<a name="version_1_6"></a>
+## Wowy 1.6
+### Dec 22, 2021
+- Fixed saving meta box data.
+- Fixed issue when delete products from flash sales.
+- Fixed bulk change product category.
+- Fixed currency settings.
+- Fixed social login settings.
+- Fixed filter by price.
+- Added export products to CSV.
+- Added missing column Content in product import and improve search in admin panel.
+- Added option to update shipping status in order details page.
+- Added option to disable order invoice until order confirmed.
+- Added option to enable/disable Captcha in registration page.
+- Added VAT number & update invoice template.
+- Improve search products.
+- Improve multi-language.
+- Improve editor & media.
 
 <a name="version_1_5"></a>
 ## Wowy 1.5
