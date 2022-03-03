@@ -24,4 +24,4 @@
   - [Analytics](usage-analytics.md)
   - [Backup](usage-backup.md)
   - [Location](usage-location.md)
-  
+  - [Invoice template](invoice-template.md)
