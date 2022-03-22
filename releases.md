@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Wowy 1.8](#version_1_8)
 - [Wowy 1.7](#version_1_7)
 - [Wowy 1.6](#version_1_6)
 - [Wowy 1.5](#version_1_5)
@@ -8,6 +9,22 @@
 - [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
+
+<a name="version_1_8"></a>
+## Wowy 1.8
+### Mar 22, 2022
+- Fix order creation.
+- Fix order cancellation.
+- Fix product name on invoice & reorder.
+- Fix shipping address.
+- Fix city form.
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve plugin Location.
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_7"></a>
 ## Wowy 1.7
