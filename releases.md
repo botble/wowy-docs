@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Wowy 1.9](#version_1_9)
 - [Wowy 1.8](#version_1_8)
 - [Wowy 1.7](#version_1_7)
 - [Wowy 1.6](#version_1_6)
@@ -9,6 +10,54 @@
 - [Wowy 1.2](#version_1_2)
 - [Wowy 1.1](#version_1_1)
 - [Wowy 1.0](#version_1_0)
+
+<a name="version_1_10"></a>
+## Wowy 1.10
+### Jul 13, 2022
+- Add Stripe Checkout option. Enable it in Admin -> Payments -> Payment methods.
+- Add option to download available translation files from GitHub.
+- Move folder /resources/lang to /lang.
+- Add order referrals (UTM tracking) https://prnt.sc/sft4o0m2noDJ
+- Add permission to manage license.
+- Add search settings (Admin -> Ecommerce -> Advanced settings).
+- Fix Arabic language (RTL language) in invoice.
+- Fix media URL.
+- Fix order history.
+- Fix PayPal payment gateway.
+- Fix product categories filter.
+- Correct product quantity when placing order, cancel order.
+- Fix RTL style.
+- Prevent issue when deactivating plugin Language.
+- Prevent order creation when payment failed.
+- Improve payment process.
+- Improve admin UI.
+- Improve menu.
+- Improve cache system (fix cache won't be cleared after translating data).
+- Update libraries / third-party package to the latest version.
+- Improve queries performance.
+
+<a name="version_1_9"></a>
+## Wowy 1.9
+### May 24, 2022
+- Fix image rotate issue when cropping thumbnails.
+- Fix media download on PHP 8.
+- Fix shipping address.
+- Add custom HTML shortcode.
+- Add option to add custom HTML to header, body or footer of page.
+- Add option to regenerate media thumbnails from admin panel.
+- Add multi-language support for product attributes.
+- Add memory limit & max execution time info to system information page.
+- Improve dashboard widgets style & pagination.
+- Improve contact form: add math captcha, blacklist words & domains to prevent spam mails.
+- Allow to redirect all 404 requests to homepage.
+- Sort shipping options by price.
+- Improve cart quantity input.
+- Improve admin bar.
+- Improve email system.
+- Improve license system.
+- Refactor code.
+- Update libraries.
+- Optimize queries.
 
 <a name="version_1_8"></a>
 ## Wowy 1.8
