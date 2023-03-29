@@ -8,7 +8,7 @@
 <a name="introduction"></a>
 ## Introduction
 
-Wowy is a Multipurpose Ecommerce System using Laravel 8.x. It's a product built on Botble CMS.
+Wowy is a Multipurpose Ecommerce System using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: `Jul 11, 2021`
 
