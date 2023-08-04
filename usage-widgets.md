@@ -18,12 +18,11 @@ Check this video: https://www.loom.com/share/e9fe8bdc4a2b4033809d55f6e0d248fc
 
 ![Image](https://live.staticflickr.com/65535/51302420715_ee6d68f032_b.jpg)
 
-
 - Go to Admin -> Appearance -> Widgets.
 
 ![Image](https://live.staticflickr.com/65535/51301593788_fac45bbf9e_b.jpg)
 
-If you want to disable widgets in the product detail page, you can set product layout in 
+If you want to disable widgets in the product detail page, you can set product layout in
 Admin -> Appearance -> Theme options (tab Ecommerce) and change Product Single Layout to full width.
 
 ![Image](https://live.staticflickr.com/65535/51302122444_5ee49ed1f9_b.jpg)
