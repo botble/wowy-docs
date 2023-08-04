@@ -1,6 +1,7 @@
 # Homepage
 
 ## Setup homepage
+
 - Go to Admin -> Appearance -> Theme options (tab Page) to select a homepage.
 
 ![Image](https://live.staticflickr.com/65535/51287854642_723cde63b7_b.jpg)
@@ -8,6 +9,7 @@
 Check this video: https://www.loom.com/share/ffa4938e230b410f81bcee3d6ef8fd29
 
 ## Customize homepage
+
 - Go to Admin -> Pages -> Select Homepage
 
 ![Image](https://live.staticflickr.com/65535/51289333549_5fbc8bffdd_b.jpg)
@@ -15,8 +17,8 @@ Check this video: https://www.loom.com/share/ffa4938e230b410f81bcee3d6ef8fd29
 Check this video: https://www.loom.com/share/f72e05508c1e43388f66bc7292d85b45
 
 - Home slider.
-![Image](./images/home-slider.png)
-  
+  ![Image](./images/home-slider.png)
+
 It's shortcode `simple-slider` in the page content.
 
 ![Image](./images/home-slider-1.png)
@@ -29,4 +31,4 @@ You can modify Home Slider 1 or change the key of shortcode to use other sliders
 
 ![Image](./images/home-slider-3.png)
 
-Check this video: https://www.loom.com/share/56fee46c89ef4ac2b89ab66c34779a15
+Check this video: https://www.loom.com/share/56fee46c89ef4ac2b89ab66c34779a15.
