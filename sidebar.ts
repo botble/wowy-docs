@@ -24,7 +24,6 @@ export default [
       { text: 'Menu', link: '/wowy/usage-menu' },
       { text: 'Theme options', link: '/wowy/usage-theme-options' },
       { text: 'Widgets', link: '/wowy/usage-widgets' },
-      { text: 'Rename theme', link: '/wowy/theme-rename' },
       { text: 'Custom CSS/JS', link: '/wowy/usage-custom-css-js' },
       { text: 'Translation', link: '/wowy/usage-translation' },
       { text: 'Multi-language', link: '/wowy/usage-multi-language' },
@@ -41,4 +40,10 @@ export default [
       { text: 'Invoice template', link: '/wowy/invoice-template' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/wowy/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[]
