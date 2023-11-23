@@ -21,7 +21,6 @@ export default [
     text: 'Usage',
     items: [
       { text: 'Setup homepage', link: '/wowy/usage-homepage' },
-      { text: 'Menu', link: '/wowy/usage-menu' },
       { text: 'Theme options', link: '/wowy/usage-theme-options' },
       { text: 'Widgets', link: '/wowy/usage-widgets' },
       { text: 'Rename theme', link: '/wowy/theme-rename' },
