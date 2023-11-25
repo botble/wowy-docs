@@ -38,6 +38,7 @@ export default [
       { text: 'Setup social login', link: '/wowy/usage-social-login' },
       { text: 'Location', link: '/wowy/usage-location' },
       { text: 'Invoice template', link: '/wowy/invoice-template' },
+      { text: 'Setup cronjob', link: '/wowy/cronjob' },
     ],
   },
   {
