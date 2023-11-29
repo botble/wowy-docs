@@ -32,13 +32,13 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/wowy/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/wowy/usage-media-wasabi' },
       { text: 'Setup email', link: '/wowy/usage-email' },
-
       { text: 'Newsletter', link: '/wowy/usage-newsletter' },
       { text: 'Currencies', link: '/wowy/usage-currencies' },
       { text: 'Setup social login', link: '/wowy/usage-social-login' },
       { text: 'Location', link: '/wowy/usage-location' },
       { text: 'Invoice template', link: '/wowy/invoice-template' },
       { text: 'Setup cronjob', link: '/wowy/cronjob' },
+      { text: 'Newsletter', link: '/wowy/usage-newsletter' },
     ],
   },
   {
