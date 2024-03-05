@@ -20,9 +20,9 @@ Homepage: [https://wowy.botble.com](https://wowy.botble.com)
 
 Admin Area: [https://wowy.botble.com/admin](https://wowy.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Why choose us
 
